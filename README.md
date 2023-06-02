@@ -1,9 +1,13 @@
-# React redux todo app
+# React redux todo app bugfix exercise
 
 Source code for a React redux todo app derived from a YouTube tutorial. Forked from the original author to use as an exercise in working with react and redux.  Includes
 
-- Finished source code (app)
+- The front-end, using react and redux (app)
 - An API
+
+There are some bugs however.  Some are show-stoppers, preventing us from running the app.  Others are a little more subtle, preventing some of the functionality.  Others are minor, just irritating console errors.  
+
+Can you fix them all?
 
 ## Running the app
 
